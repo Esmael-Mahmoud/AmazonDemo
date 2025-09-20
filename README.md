@@ -51,12 +51,6 @@ A complete Amazon clone built with ASP.NET Core MVC, featuring all essential e-c
 - Google OAuth credentials
 - (Optional) OpenAI API key
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/EbrahimShabann/AmazonFinalProject.git
-   cd AmazonFinalProject
-
    
 ## 🌐 Live Demo
 
